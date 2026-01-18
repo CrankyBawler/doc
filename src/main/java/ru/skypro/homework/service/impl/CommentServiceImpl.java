@@ -92,6 +92,7 @@ public class CommentServiceImpl implements CommentService {
         return commentDTO;
     }
 
+
     @Override
     public String deleteComment(Long commentId, String username) {
         log.info("Запущен метод сервиса {}", LoggingMethodImpl.getMethodName());

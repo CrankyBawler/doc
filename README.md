@@ -1,4 +1,4 @@
-# Marketplace API — Курсовая работа (портфолио)
+# Marketplace API
 
 ## Описание проекта
 
